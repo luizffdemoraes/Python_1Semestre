@@ -1,6 +1,6 @@
 
 <p  align="center">
-<img  src="/img/python-logo.jpg"  alt="python"  />
+<img  src="img/python-logo.jpg"  alt="python"  />
 </p>
 
 
